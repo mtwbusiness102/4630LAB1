@@ -1,6 +1,6 @@
 #CLASS LABS
 
-## Lab 1
+## Lab 1 https://github.com/mtwbusiness102/ACCTMIS-4630-LAB-1
 
 ## Lab 2 
 
